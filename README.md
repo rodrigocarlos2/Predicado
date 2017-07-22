@@ -9,3 +9,21 @@
 
 <br>
 <strong><p align="center"> Rogério parece nervoso. </p></strong>
+<strong><p align="center"> O estudante está inspirado. </p></strong>
+
+<br>
+<p align="justify"> O Predicado Verbal é aquele que possui como núcleo um Verbo Significativo (Nocional). Um Verbo Significativo expressa ação ou fenômeno da natureza, somente. Um exemplo de Predicado Verbal está escrito a seguir. </p>
+
+<br>
+<strong><p align="center"> Diego morreu. </p></strong>
+<strong><p align="center"> Diego sorriu. </p></strong>
+
+<br>
+<p align="justify"> E por último, o Predicado Verbo-Nominal é composto de um Verbo Significativo com um Predicativo. Um exemplo de Predicado Verbo-Nominal é apresentado abaixo. </p>
+
+<br>
+<strong><p align="center"> Diego permaneceu rico. </p></strong>
+<strong><p align="center"> Hilda chegou atrasada. </p></strong>
+
+<br>
+<p align="justify"> Recapitulando, o Predicado é o que é expresso pelo verbo, e possui três tipos: Predicado Nominal, Verbal e Verbo-Nominal. </p>
